@@ -11,14 +11,6 @@ const number = 3;
 </template>
 
 <style scoped>
-header {
-  width: 100%;
-  height: 100px;
-  background-color: red;
-  position: fixed;
-  top: 0;
-}
-
 section {
   border: 1px solid yellow;
 }

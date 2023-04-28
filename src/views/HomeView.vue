@@ -4,6 +4,6 @@
 
 <template>
   <main>
-    <h1>Homeです</h1>
+   
   </main>
 </template>
